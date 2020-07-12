@@ -1,2 +1,3 @@
 # Qt-Sudoku
-使用 Qt 开发的数独游戏
+
+A Sudoku game develop by C++ and Qt
